@@ -1,0 +1,17 @@
+/* css for image gallery */
+.wrapper{
+    text-align: center;
+    
+}
+img {
+    height:250px;
+    width:250px;
+    margin:20px;
+} 
+.image__box{
+    display: flex;
+    flex-wrap: wrap;
+}
+button{
+    background-color:cyan;
+}
